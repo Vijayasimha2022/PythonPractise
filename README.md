@@ -16,6 +16,31 @@ root/
 │   ├── 
 │   └──
 │
+├── BuitinDataStructures/
+│   ├── List/
+│   │    ├── List.ipynb                      # Introduction to list
+│   │    ├── ListChallenges.ipynb            # Challenges using list
+│   │    ├── ListComprehension.ipynb.ipynb   # List comprehensions
+│   │    └── NestedLists.ipynb               # List inside List
+│   │
+│   ├── Tuple/
+│   │    ├── Tuple.ipynb                     # tuple
+│   │    ├── 
+│   │    ├── 
+│   │    └──
+│   │
+│   ├──  Set/
+│   │    ├── 
+│   │    ├── 
+│   │    ├── 
+│   │    └──
+│   │
+│   └──  Dictionary/
+│        ├── 
+│        ├── 
+│        ├── 
+│        └──
+│   
 ├── 02-OOP-Fundamentals/                # The building blocks of Classes
 │   ├── 01-Classes-and-Objects.ipynb    # Blueprint vs. Instance
 │   ├── 02-The-Constructor.ipynb        # __init__ method and initialization
